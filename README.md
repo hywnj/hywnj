@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:f7d0e8,50:eb7cae,100:d0729c&height=120&section=header&text=👋+Hi%2C+I'm+Hyewon.&fontSize=45&fontColor=FFFFFFFF&fontAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:f7d0e8,50:eb7cae,100:d0729c&height=120&section=header&text=👋+Hi%2C+I'm+Hyewon.&fontSize=45&fontColor=FFFFFFFF&fontAlignY=50&animation=fadeIn)   
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=40&duration=3500&pause=1000&color=6E6E6E&center=true&vCenter=true&width=800&height=50&lines=Hi+there%2C+I'm+Hyewon.👋)](https://git.io/typing-svg) -->
 <!-- 2e2e2e -->
